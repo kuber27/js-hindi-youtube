@@ -28,3 +28,7 @@ let somenumber = 33
 let stringnumber = String(somenumber)
 console.log(stringnumber);
 console.log(typeof stringnumber);
+
+let value = 8
+let negvalue = -value
+console.log(negvalue)
